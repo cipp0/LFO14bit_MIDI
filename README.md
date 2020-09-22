@@ -13,7 +13,7 @@ a differenza del classico CC a 128 valori abbiamo una definizione di 16384 valor
 
 
 ## ENG
-#### Sinusoidal LFO MIDI 14-bit
+#### Sine wave LFO MIDI 14-bit
 
 This Max/MSP patch allows the user to send 14-bit MIDI CC data
 unlike the classic 128-value CC we have a definition of 16384 values
